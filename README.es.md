@@ -48,6 +48,10 @@ En línea. Este repo solo tiene la página; el contenido legible no vive aquí.
 
 Un `index.html` estático con el contenido cifrado. Usa la identidad de Arden, no la marca personal de Jorge Suárez.
 
+## Licencia
+
+Este repo no tiene archivo de licencia, así que Arden conserva todos los derechos sobre el código, el contenido y la marca. Si quieres reutilizar algo, pide permiso primero abriendo un issue.
+
 ---
 
 <div align="center">
