@@ -4,11 +4,11 @@
 
 > Encrypted status page for Arden sponsors.
 
-**[▶ Open the page](https://ardenstatus.jorgesuarez.com.mx)** · Arden
+**[▶ Open the page](https://status.uetc.mx)** · Arden
 
 ## What is it?
 
-A status page for Arden sponsors, served at [ardenstatus.jorgesuarez.com.mx](https://ardenstatus.jorgesuarez.com.mx). The content is encrypted and opens only with the access password.
+A status page for Arden sponsors, served at [status.uetc.mx](https://status.uetc.mx). The previous address, `ardenstatus.jorgesuarez.com.mx`, redirects there (checked 10 Nov 2026). The content is encrypted and opens only with the access password.
 
 ## Who is it for?
 
@@ -24,7 +24,7 @@ One page, always at the same address, with the content encrypted with AES-256-GC
 
 ## How do I use it?
 
-1. Open [ardenstatus.jorgesuarez.com.mx](https://ardenstatus.jorgesuarez.com.mx).
+1. Open [status.uetc.mx](https://status.uetc.mx).
 2. Type the password.
 3. Read the status. The page shows the date of its last update.
 
