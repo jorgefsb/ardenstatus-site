@@ -48,6 +48,10 @@ Live. This repo only holds the page; the readable content does not live here.
 
 A static `index.html` with the encrypted content. It uses Arden's identity, not Jorge Suárez's personal brand.
 
+## License
+
+This repo has no license file, so Arden keeps all rights to the code, the content and the brand. If you want to reuse something, ask first by opening an issue.
+
 ---
 
 <div align="center">
