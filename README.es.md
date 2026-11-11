@@ -4,11 +4,11 @@
 
 > Página de estatus cifrada para patrocinadores de Arden.
 
-**[▶ Abrir la página](https://ardenstatus.jorgesuarez.com.mx)** · Arden
+**[▶ Abrir la página](https://status.uetc.mx)** · Arden
 
 ## ¿Qué es?
 
-Una página de estatus para patrocinadores de Arden, servida en [ardenstatus.jorgesuarez.com.mx](https://ardenstatus.jorgesuarez.com.mx). El contenido va cifrado y solo abre con la contraseña de acceso.
+Una página de estatus para patrocinadores de Arden, servida en [status.uetc.mx](https://status.uetc.mx). La dirección anterior, `ardenstatus.jorgesuarez.com.mx`, redirige ahí (comprobado el 10 nov 2026). El contenido va cifrado y solo abre con la contraseña de acceso.
 
 ## ¿Para quién es?
 
@@ -24,7 +24,7 @@ Una sola página, siempre en la misma dirección, con el contenido cifrado con A
 
 ## ¿Cómo se usa?
 
-1. Abre [ardenstatus.jorgesuarez.com.mx](https://ardenstatus.jorgesuarez.com.mx).
+1. Abre [status.uetc.mx](https://status.uetc.mx).
 2. Escribe la contraseña.
 3. Lee el estatus. La página muestra la fecha de su última actualización.
 
